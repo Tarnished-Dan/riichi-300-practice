@@ -1,0 +1,14 @@
+[
+  {
+    "id": 288,
+    "kind": "source_inconsistency",
+    "sourceFile": "何切300.pdf",
+    "sourceAnswerPage": 217,
+    "sourcePrintedPage": 212,
+    "sourceImage": "assets/answers/288.webp",
+    "observedSituation": "答案图顶部场况为「東1局 西家 8巡目」。",
+    "observedExplanation": "同一答案正文出现「親マン以上になる」。",
+    "note": "原书正文的「亲家满贯以上」与本题西家身份不一致。记录为疑似原书笔误，未推断作者原意，也未自行改成另一个具体点数。",
+    "translationTreatment": "中文保留切5万、优先比较好形听牌进张、即使切宝牌仍有门断平，以及摸9筒仍能确保三色的论证；相关分值仅表述为「打点仍充足」。"
+  }
+]

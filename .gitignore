@@ -1,0 +1,19 @@
+# Original books and OCR / extraction work files stay local.
+/*.pdf
+/tmp/
+/desktop/
+
+# Keep one representative preview in the repository.
+/screenshots/*
+!/screenshots/classic-tiles.png
+
+# Local packages, caches and system metadata.
+*.zip
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example

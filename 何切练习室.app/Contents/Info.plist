@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>何切练习室</string>
+    <key>CFBundleDisplayName</key><string>何切练习室</string>
+    <key>CFBundleIdentifier</key><string>cn.local.heqie300.launcher</string>
+    <key>CFBundleExecutable</key><string>HeqieLauncher</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>LSMinimumSystemVersionByArchitecture</key>
+    <dict>
+        <key>arm64</key><string>12.0</string>
+        <key>x86_64</key><string>13.0</string>
+    </dict>
+</dict>
+</plist>

@@ -1,0 +1,92 @@
+/* Load after styles.css. Tile dimensions stay under the existing responsive rules. */
+.tile.tile-crafted {
+  border: 1px solid #f8f5e6;
+  border-radius: 4px;
+  background: linear-gradient(112deg, #fffef7 0%, #faf7e9 62%, #eee9d5 100%);
+  box-shadow:
+    inset 1px 1px 0 #ffffff,
+    inset -1px -1px 0 #e4dfcb,
+    0 2px 0 #dedbc6,
+    0 4px 0 #bbbca6,
+    0 5px 0 #7c8c73,
+    0 7px 5px #06291d70;
+  isolation: isolate;
+}
+
+.tile.tile-crafted::before {
+  inset: 1px;
+  border: 1px solid #ffffff8c;
+  border-radius: 3px;
+  background: linear-gradient(145deg, #ffffff18, transparent 50%);
+  pointer-events: none;
+}
+
+.tile.tile-crafted::after {
+  content: "";
+  position: absolute;
+  inset: auto 3px 1px;
+  height: 1px;
+  border-radius: 1px;
+  background: #ffffffa6;
+  pointer-events: none;
+}
+
+.tile.tile-crafted > svg.tile-art {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 94%;
+  height: 94%;
+  flex: none;
+  fill: none;
+  stroke: none;
+  stroke-width: 0;
+  overflow: visible;
+  shape-rendering: geometricPrecision;
+}
+
+.tile-crafted .mahjong-glyph {
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", "KaiTi_GB2312", "Songti SC", serif;
+  font-style: normal;
+  font-variant: normal;
+  stroke: none;
+  text-rendering: geometricPrecision;
+}
+
+.tile-button.selected .tile.tile-crafted {
+  outline-color: #f1d38a;
+  box-shadow:
+    inset 1px 1px 0 #ffffff,
+    inset -1px -1px 0 #e3dbc0,
+    0 2px 0 #ded7bc,
+    0 4px 0 #b9b69b,
+    0 5px 0 #7c8c73,
+    0 9px 9px #06291d70;
+}
+
+.dora-tiles .tile.tile-crafted {
+  border-radius: 3px;
+  box-shadow:
+    inset 1px 1px 0 #ffffff,
+    inset -1px -1px 0 #e4dfcb,
+    0 2px 0 #d6d4bc,
+    0 3px 0 #8d9b7e,
+    0 4px 4px #06291d66;
+}
+
+@media (max-width: 480px) {
+  .tile.tile-crafted {
+    border-radius: 3px;
+    box-shadow:
+      inset 1px 1px 0 #ffffff,
+      inset -1px -1px 0 #e4dfcb,
+      0 2px 0 #d4d1b9,
+      0 3px 0 #879779,
+      0 5px 3px #06291d60;
+  }
+
+  .tile.tile-crafted > svg.tile-art {
+    width: 98%;
+    height: 96%;
+  }
+}

@@ -1,0 +1,1804 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 2,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 3,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 4,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 5,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 6,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 7,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 8,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 9,
+      "contextCandidates": [
+        "東1局 南家 6巡目"
+      ]
+    },
+    {
+      "id": 10,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 11,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 12,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 13,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 14,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 15,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 16,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 17,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 18,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 19,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 20,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 21,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 22,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 23,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 24,
+      "contextCandidates": [
+        "東1局 西家 3巡目"
+      ]
+    },
+    {
+      "id": 25,
+      "contextCandidates": [
+        "東1局 北家 7巡目"
+      ]
+    },
+    {
+      "id": 26,
+      "contextCandidates": [
+        "東1局 東家 6巡日"
+      ]
+    },
+    {
+      "id": 27,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 28,
+      "contextCandidates": [
+        "東1局東家 7巡目"
+      ]
+    },
+    {
+      "id": 29,
+      "contextCandidates": [
+        "東1局 西家 6巡日"
+      ]
+    },
+    {
+      "id": 30,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 31,
+      "contextCandidates": [
+        "東1局 西家 5巡目"
+      ]
+    },
+    {
+      "id": 32,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 33,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 34,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 35,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 36,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 37,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 38,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 39,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 40,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 41,
+      "contextCandidates": [
+        "東1局 西家9巡目"
+      ]
+    },
+    {
+      "id": 42,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 43,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 44,
+      "contextCandidates": [
+        "東1局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 45,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 46,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 47,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 48,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 49,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 50,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 51,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 52,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 53,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 54,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 55,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 56,
+      "contextCandidates": [
+        "東1局 東家4巡目"
+      ]
+    },
+    {
+      "id": 57,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 58,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 59,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 60,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 61,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 62,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 63,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 64,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 65,
+      "contextCandidates": [
+        "東1局 東家 3巡日"
+      ]
+    },
+    {
+      "id": 66,
+      "contextCandidates": [
+        "東1局 西家 3巡目"
+      ]
+    },
+    {
+      "id": 67,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 68,
+      "contextCandidates": [
+        "東1局 西家 9巡目"
+      ]
+    },
+    {
+      "id": 69,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 70,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 71,
+      "contextCandidates": [
+        "東1局 西家 4巡日"
+      ]
+    },
+    {
+      "id": 72,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 73,
+      "contextCandidates": [
+        "東1局 東家 5巡目"
+      ]
+    },
+    {
+      "id": 74,
+      "contextCandidates": [
+        "東1局 東家 4巡日"
+      ]
+    },
+    {
+      "id": 75,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 76,
+      "contextCandidates": [
+        "東1局 西家6巡目"
+      ]
+    },
+    {
+      "id": 77,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 78,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 79,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 80,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 81,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 82,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 83,
+      "contextCandidates": [
+        "東1局 東家8巡目"
+      ]
+    },
+    {
+      "id": 84,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 85,
+      "contextCandidates": [
+        "東1局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 86,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 87,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 88,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 89,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 90,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 91,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 92,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 93,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 94,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 95,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 96,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 97,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 98,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 99,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 100,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 101,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 102,
+      "contextCandidates": [
+        "東1局 西家9巡目"
+      ]
+    },
+    {
+      "id": 103,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 104,
+      "contextCandidates": [
+        "東1局 西家 5巡目"
+      ]
+    },
+    {
+      "id": 105,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 106,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 107,
+      "contextCandidates": [
+        "東1局 西家 4巡日"
+      ]
+    },
+    {
+      "id": 108,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 109,
+      "contextCandidates": [
+        "｜東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 110,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 111,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 112,
+      "contextCandidates": [
+        "東1局 南家6巡目"
+      ]
+    },
+    {
+      "id": 113,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 114,
+      "contextCandidates": [
+        "東1局 東家 1巡目"
+      ]
+    },
+    {
+      "id": 115,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 116,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 117,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 118,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 119,
+      "contextCandidates": [
+        "東1局 東家4巡日"
+      ]
+    },
+    {
+      "id": 120,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 121,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 122,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 123,
+      "contextCandidates": [
+        "東1局東家 7巡目"
+      ]
+    },
+    {
+      "id": 124,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 125,
+      "contextCandidates": [
+        "東1局 東家8巡目"
+      ]
+    },
+    {
+      "id": 126,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 127,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 128,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 129,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 130,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 131,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 132,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 133,
+      "contextCandidates": [
+        "東1局 南家 5巡目"
+      ]
+    },
+    {
+      "id": 134,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 135,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 136,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 137,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 138,
+      "contextCandidates": [
+        "東1局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 139,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 140,
+      "contextCandidates": [
+        "東1局 西家 4巡日"
+      ]
+    },
+    {
+      "id": 141,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 142,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 143,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 144,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 145,
+      "contextCandidates": [
+        "東1局 東家 9巡目"
+      ]
+    },
+    {
+      "id": 146,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 147,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 148,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 149,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 150,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 151,
+      "contextCandidates": [
+        "南4局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 152,
+      "contextCandidates": [
+        "南4局 南家 5巡目"
+      ]
+    },
+    {
+      "id": 153,
+      "contextCandidates": [
+        "南4局 南家 5巡目"
+      ]
+    },
+    {
+      "id": 154,
+      "contextCandidates": [
+        "南4局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 155,
+      "contextCandidates": [
+        "南4局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 156,
+      "contextCandidates": [
+        "南4局 南家 4巡目"
+      ]
+    },
+    {
+      "id": 157,
+      "contextCandidates": [
+        "南4局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 158,
+      "contextCandidates": [
+        "南4局 南家 9巡目"
+      ]
+    },
+    {
+      "id": 159,
+      "contextCandidates": [
+        "南4局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 160,
+      "contextCandidates": [
+        "南4局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 161,
+      "contextCandidates": [
+        "南4局 東家 1巡目"
+      ]
+    },
+    {
+      "id": 162,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 163,
+      "contextCandidates": [
+        "東1局 西家 5巡目"
+      ]
+    },
+    {
+      "id": 164,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 165,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 166,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 167,
+      "contextCandidates": [
+        "東1局 西家 6巡日"
+      ]
+    },
+    {
+      "id": 168,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 169,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 170,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 171,
+      "contextCandidates": [
+        "東家 東1局5巡目"
+      ]
+    },
+    {
+      "id": 172,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 173,
+      "contextCandidates": [
+        "東1局 南家 7巡日"
+      ]
+    },
+    {
+      "id": 174,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 175,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 176,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 177,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 178,
+      "contextCandidates": [
+        "東1局 西家9巡目"
+      ]
+    },
+    {
+      "id": 179,
+      "contextCandidates": [
+        "東1局 西家 3巡日"
+      ]
+    },
+    {
+      "id": 180,
+      "contextCandidates": [
+        "東1局 西家 5巡目"
+      ]
+    },
+    {
+      "id": 181,
+      "contextCandidates": [
+        "東1局西家3巡目"
+      ]
+    },
+    {
+      "id": 182,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 183,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 184,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 185,
+      "contextCandidates": [
+        "東1局 東家3巡目"
+      ]
+    },
+    {
+      "id": 186,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 187,
+      "contextCandidates": [
+        "東1局 西家 8巡目"
+      ]
+    },
+    {
+      "id": 188,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 189,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 190,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 191,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 192,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 193,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 194,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 195,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 196,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 197,
+      "contextCandidates": [
+        "東1局 東家4巡目"
+      ]
+    },
+    {
+      "id": 198,
+      "contextCandidates": [
+        "東1局 東家 8巡目"
+      ]
+    },
+    {
+      "id": 199,
+      "contextCandidates": [
+        "東1局 西家6巡目"
+      ]
+    },
+    {
+      "id": 200,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 201,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 202,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 203,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 204,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 205,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 206,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 207,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 208,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 209,
+      "contextCandidates": [
+        "東1局 東家 5巡目"
+      ]
+    },
+    {
+      "id": 210,
+      "contextCandidates": [
+        "東1局 南家 3巡目"
+      ]
+    },
+    {
+      "id": 211,
+      "contextCandidates": [
+        "東1局 東家 5巡目"
+      ]
+    },
+    {
+      "id": 212,
+      "contextCandidates": [
+        "東1局 西家 4巡日"
+      ]
+    },
+    {
+      "id": 213,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 214,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 215,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 216,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 217,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 218,
+      "contextCandidates": [
+        "東1局 東家 5巡目"
+      ]
+    },
+    {
+      "id": 219,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 220,
+      "contextCandidates": [
+        "東1局 東家8巡目"
+      ]
+    },
+    {
+      "id": 221,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 222,
+      "contextCandidates": [
+        "東1局 西家 5巡目"
+      ]
+    },
+    {
+      "id": 223,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 224,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 225,
+      "contextCandidates": [
+        "東1局 北家 6巡目"
+      ]
+    },
+    {
+      "id": 226,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 227,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 228,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 229,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 230,
+      "contextCandidates": [
+        "東1局 東家8巡目"
+      ]
+    },
+    {
+      "id": 231,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 232,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 233,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 234,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 235,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 236,
+      "contextCandidates": [
+        "東1局 南家 1巡日"
+      ]
+    },
+    {
+      "id": 237,
+      "contextCandidates": [
+        "東1局 南家5巡目"
+      ]
+    },
+    {
+      "id": 238,
+      "contextCandidates": [
+        "東1局 東家 5巡目"
+      ]
+    },
+    {
+      "id": 239,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 240,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 241,
+      "contextCandidates": [
+        "東1局 東家 5巡目"
+      ]
+    },
+    {
+      "id": 242,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 243,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 244,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 245,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 246,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 247,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 248,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 249,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 250,
+      "contextCandidates": [
+        "東1局 南家 7巡目"
+      ]
+    },
+    {
+      "id": 251,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 252,
+      "contextCandidates": [
+        "東1局 東家9巡目"
+      ]
+    },
+    {
+      "id": 253,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 254,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 255,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 256,
+      "contextCandidates": [
+        "東1局 西家6巡目"
+      ]
+    },
+    {
+      "id": 257,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 258,
+      "contextCandidates": [
+        "東1局 南家 3巡目"
+      ]
+    },
+    {
+      "id": 259,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 260,
+      "contextCandidates": [
+        "東1局 東家 4巡日"
+      ]
+    },
+    {
+      "id": 261,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 262,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 263,
+      "contextCandidates": [
+        "東1局 西家 7巡日"
+      ]
+    },
+    {
+      "id": 264,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 265,
+      "contextCandidates": [
+        "東1局 西家6巡目"
+      ]
+    },
+    {
+      "id": 266,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 267,
+      "contextCandidates": [
+        "東1局 東家6巡目"
+      ]
+    },
+    {
+      "id": 268,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 269,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 270,
+      "contextCandidates": [
+        "東1局 東家5巡目"
+      ]
+    },
+    {
+      "id": 271,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 272,
+      "contextCandidates": [
+        "東1局 西家 6巡日"
+      ]
+    },
+    {
+      "id": 273,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 274,
+      "contextCandidates": [
+        "東1局 東家 4巡目"
+      ]
+    },
+    {
+      "id": 275,
+      "contextCandidates": [
+        "東1局 東家 5巡日"
+      ]
+    },
+    {
+      "id": 276,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 277,
+      "contextCandidates": [
+        "東1局 西家6巡目"
+      ]
+    },
+    {
+      "id": 278,
+      "contextCandidates": [
+        "東1局 南家 4巡日"
+      ]
+    },
+    {
+      "id": 279,
+      "contextCandidates": [
+        "東1局 北家9巡目"
+      ]
+    },
+    {
+      "id": 280,
+      "contextCandidates": [
+        "東1局 東家 3巡目"
+      ]
+    },
+    {
+      "id": 281,
+      "contextCandidates": [
+        "東1局 南家 5巡日"
+      ]
+    },
+    {
+      "id": 282,
+      "contextCandidates": [
+        "東1局 東家 6巡目"
+      ]
+    },
+    {
+      "id": 283,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 284,
+      "contextCandidates": [
+        "東1局 西家 4巡日"
+      ]
+    },
+    {
+      "id": 285,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 286,
+      "contextCandidates": [
+        "東1局 西家5巡目"
+      ]
+    },
+    {
+      "id": 287,
+      "contextCandidates": [
+        "東1局 西家 6巡日"
+      ]
+    },
+    {
+      "id": 288,
+      "contextCandidates": [
+        "東1局 西家 8巡目"
+      ]
+    },
+    {
+      "id": 289,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 290,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 291,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    },
+    {
+      "id": 292,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 293,
+      "contextCandidates": [
+        "東1局 西家 3巡日"
+      ]
+    },
+    {
+      "id": 294,
+      "contextCandidates": [
+        "東1局 西家 6巡目"
+      ]
+    },
+    {
+      "id": 295,
+      "contextCandidates": [
+        "東1局 東家 7巡目"
+      ]
+    },
+    {
+      "id": 296,
+      "contextCandidates": [
+        "東1局 北家 5巡日"
+      ]
+    },
+    {
+      "id": 297,
+      "contextCandidates": [
+        "東1局西 5巡目"
+      ]
+    },
+    {
+      "id": 298,
+      "contextCandidates": [
+        "東1局 西家 7巡目"
+      ]
+    },
+    {
+      "id": 299,
+      "contextCandidates": [
+        "東1局 東家 7巡日"
+      ]
+    },
+    {
+      "id": 300,
+      "contextCandidates": [
+        "東1局 西家 4巡目"
+      ]
+    }
+  ]
+}

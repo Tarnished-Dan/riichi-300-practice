@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123d33">
+  <meta name="description" content="基于《何切300问》的中文本地日麻练习室。选择手牌，思考每一打。">
+  <title>何切练习室 · 300 道日麻练习</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="tiles.css">
+  <script src="data.js" defer></script>
+  <script src="tiles.js?v=20261020-classic-tiles" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到练习题</a>
+  <header class="site-header">
+    <a class="brand" href="./index.html" aria-label="何切练习室首页">
+      <span class="brand-mark" aria-hidden="true"><span>何</span></span>
+      <span class="brand-name">何切练习室<span class="brand-subtitle">日麻 · 牌理练习</span></span>
+    </a>
+    <div class="header-right"><span class="local-dot"></span>本地练习<span class="header-divider"></span><span>300 问</span></div>
+  </header>
+
+  <div class="workspace">
+    <aside class="library-panel" aria-label="练习题目录">
+      <div class="library-heading"><div><span class="eyebrow">每一题，都是进步</span><h2>题目目录</h2></div><button type="button" id="clear-history" class="icon-button" title="清除练习记录" aria-label="清除练习记录"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11a9 9 0 1 1 2.7 7M3 5v6h6"/></svg></button></div>
+      <div class="progress-summary"><span>已练习 <strong id="completed-count">0</strong><span class="muted"> / <span id="total-count">300</span></span></span><span id="progress-percent">0%</span></div>
+      <div class="progress-track"><div id="progress-fill"></div></div>
+      <div class="score-summary"><span><i class="legend-dot correct"></i>答对 <strong id="correct-count">0</strong></span><span><i class="legend-dot incorrect"></i>待巩固 <strong id="incorrect-count">0</strong></span></div>
+      <form id="jump-form" class="jump-form"><label class="sr-only" for="jump-input">跳转至题号</label><span aria-hidden="true">#</span><input id="jump-input" name="question" type="number" min="1" max="300" inputmode="numeric" placeholder="输入题号，快速跳转"><button type="submit" aria-label="跳转到该题"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button></form>
+      <div id="history-filters" class="history-filters" role="group" aria-label="按练习状态筛选">
+        <button type="button" data-filter="all" class="active" aria-pressed="true">全部</button>
+        <button type="button" data-filter="new" aria-pressed="false">未做</button>
+        <button type="button" data-filter="done" aria-pressed="false">已做</button>
+        <button type="button" data-filter="wrong" aria-pressed="false">错题</button>
+      </div>
+      <div class="group-heading"><label for="question-group">题目范围</label><select id="question-group" aria-label="选择题目范围"><option value="0">第 1 – 50 题</option><option value="1">第 51 – 100 题</option><option value="2">第 101 – 150 题</option><option value="3">第 151 – 200 题</option><option value="4">第 201 – 250 题</option><option value="5">第 251 – 300 题</option><option value="all">全部 300 题</option></select></div>
+      <div id="question-grid" class="question-grid" aria-label="选择题目"></div>
+      <p id="grid-empty" class="grid-empty" hidden>这个范围还没有符合条件的题目。</p>
+      <div class="grid-legend"><span><i class="legend-square current"></i>当前</span><span><i class="legend-square correct"></i>答对</span><span><i class="legend-square incorrect"></i>答错</span></div>
+      <div class="library-footer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 11 3 3 7-7M12 3 4 6v6c0 5 8 9 8 9s8-4 8-9V6l-8-3Z"/></svg><p>记录保存在此浏览器中<br><span>无需登录，专注每一次思考</span></p></div>
+    </aside>
+
+    <main id="main" tabindex="-1">
+      <div class="intro"><div><div class="eyebrow">日麻何切三百问</div><h1>把每一打，想明白。</h1><p>看手牌、想牌理，再做出你的选择。</p></div><div class="intro-count"><strong>300</strong><span>道精选何切</span></div></div>
+      <section class="exercise" aria-labelledby="question-title">
+        <div class="exercise-heading"><div class="question-heading"><span class="question-number" id="question-number">第 001 题</span><h2 id="question-title">这一手，你会切哪张？</h2></div><span id="question-status" class="status-badge">尚未练习</span></div>
+        <div class="table-surface">
+          <div class="table-heading"><div class="context-items" id="context-items"></div><div class="dora-section"><span>宝牌指示牌</span><div id="dora-tiles" class="dora-tiles"></div></div></div>
+          <div class="table-rule"></div>
+          <div id="question-visual" class="question-visual" hidden><img id="question-image" alt="本题原书题面" loading="lazy"></div>
+          <div class="hand-caption"><span id="hand-caption">你的手牌</span><span id="hand-hint">点击一张牌，选择要切出的牌</span></div>
+          <div class="hand-and-melds"><div id="hand-scroll" class="hand-scroll"><div id="hand" class="hand" role="group" aria-label="选择要切出的手牌"></div></div><div id="meld-display" class="meld-display" hidden><span>副露（不可切）</span><img id="meld-image" alt="本题已经副露的牌，不可选择切出"></div></div>
+          <div id="fallback-palette" class="fallback-palette" hidden></div>
+          <div class="table-bottom"><span class="table-note"><span class="tiny-diamond"></span>将最后一张视为摸入牌；以原书题意为准</span><span class="table-wordmark">何切 · 专注</span></div>
+        </div>
+        <button type="button" id="declare-kan" class="kan-button" aria-pressed="false" hidden>也可暗杠这四张牌</button>
+        <div class="action-bar"><div id="selection-summary" class="selection-summary"><span class="selection-placeholder">从手牌中选择一张</span><span class="action-help">想好以后，再揭晓答案</span></div><button type="button" id="submit-answer" class="primary-button" disabled>确认切牌 <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button></div>
+        <section id="feedback" class="feedback" aria-live="polite" hidden></section>
+        <details id="source-details" class="source-details"><summary><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h7a4 4 0 0 1 4 4v12a4 4 0 0 0-4-2H4V4Zm11 4a4 4 0 0 1 4-4h2v14h-2a4 4 0 0 0-4 2"/></svg>查看原书题面<span class="source-hint">保留原图，方便核对</span></span><svg class="chevron" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><div id="source-content" class="source-content"></div></details>
+        <nav class="question-navigation" aria-label="题目导航"><button type="button" id="previous-question" class="navigation-button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 12H5m6-6-6 6 6 6"/></svg>上一题</button><button type="button" id="random-question" class="random-button"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h3c4 0 6 10 10 10h3m-4-4 4 4-4 4M4 17h3c1.8 0 3-2 4-4m2-2c1-2 2-4 4-4h3m-4-4 4 4-4 4"/></svg>随机未做</button><button type="button" id="next-question" class="navigation-button">下一题<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button></nav>
+      </section>
+      <details class="practice-help"><summary>练习说明与本书约定</summary><div><p>选择要切出的手牌，再点击“确认切牌”查看判定与中文解析。最右侧单独放置的是摸入牌；副露区的牌不可切出。持有四张同牌时，选中后也可改为暗杠。</p><p>右上角展示的是<strong>宝牌指示牌</strong>。数牌按 1→2→…→9→1；风牌按东→南→西→北→东；三元牌按白→发→中→白，后一张才是宝牌。赤五与普通五分开判定。</p><p>沿用原书的进张计数约定：不扣除宝牌指示牌，不扣除刚打出的牌；倒退向听后重新摸回刚切出的牌也算有效进张。</p><p>判分依据原书当前场况的主要推荐。解析中会说明替代打法、立直等后续操作。m / p / s / z 分别表示万 / 筒 / 索 / 字牌；“和牌即一位”表示任意和牌即可获得第一名。</p><p>记录仅保存在当前浏览器。关闭页面后可继续；清除浏览器网站数据也会清除记录。</p></div></details>
+      <footer class="main-footer"><p id="source-credit">题目与解析依据《何切300问》日文原作翻译整理。</p><a href="tiles.html">查看全部牌面</a></footer>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="clear-dialog" class="clear-dialog" aria-labelledby="clear-title"><form method="dialog"><span class="eyebrow">RESET 每一题，都是进步</span><h2 id="clear-title">清除所有练习记录？</h2><p>已做题目、对错次数与上次选择都会被清除。题库不会受影响，此操作无法撤销。</p><div class="dialog-actions"><button class="secondary-button" value="cancel">保留记录</button><button id="confirm-clear" class="danger-button" value="confirm">清除记录</button></div></form></dialog>
+</body>
+</html>

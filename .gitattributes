@@ -1,0 +1,17 @@
+* text=auto
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.swift text eol=lf
+*.plist text eol=lf
+*.command text eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.icns binary
+**/Contents/MacOS/* binary

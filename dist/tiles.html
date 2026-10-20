@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>牌面一览 · 何切练习室</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="tiles.css">
+  <script src="tiles.js?v=20261020-classic-tiles" defer></script>
+  <script src="tiles-gallery.js" defer></script>
+  <style>
+    body { margin: 0; background: #f6f5ef; color: #263e34; }
+    .tile-gallery { width: min(1080px, calc(100% - 48px)); margin: 32px auto; }
+    .gallery-heading { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+    .gallery-heading h1 { font: 500 30px "Songti SC", serif; margin: 0 0 8px; }
+    .gallery-heading p, .gallery-note { font-size: 12px; color: #6d7e6e; line-height: 1.8; margin: 0; }
+    .tile-gallery a { color: #285d48; text-underline-offset: 4px; }
+    .back-link { font-size: 13px; white-space: nowrap; }
+    .gallery-table { background: #244e3e; padding: 20px 24px; border-radius: 16px; }
+    .gallery-row { display: grid; grid-template-columns: 58px repeat(10, minmax(0, 1fr)); gap: 12px; align-items: center; padding: 12px 0; }
+    .gallery-row + .gallery-row { border-top: 1px solid #ffffff14; }
+    .gallery-row h2 { font-size: 14px; color: #c8d8bd; font-weight: 500; margin: 0; }
+    .gallery-tile { display: flex; flex-direction: column; align-items: center; gap: 12px; font-size: 11px; color: #d0dbc7; }
+    .gallery-tile .tile { width: 52px; height: 76px; }
+    .gallery-note { padding: 15px 2px 0; }
+    @media (max-width: 760px) {
+      .tile-gallery { width: calc(100% - 28px); margin: 24px auto; }
+      .gallery-heading h1 { font-size: 25px; }
+      .gallery-heading p { max-width: 230px; }
+      .gallery-table { padding: 12px; }
+      .gallery-row { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 16px 8px; padding: 18px 0; }
+      .gallery-row h2 { grid-column: 1 / -1; }
+      .gallery-tile .tile { width: 46px; height: 68px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="tile-gallery">
+    <header class="gallery-heading">
+      <div><h1>每张牌，都认清。</h1><p>34 种基本牌与 3 种赤五 · 与练习页面使用同一套牌面</p></div>
+      <a class="back-link" href="index.html">返回练习 →</a>
+    </header>
+    <div id="tile-gallery" class="gallery-table"></div>
+    <p class="gallery-note">牌纹排列与红色位置参照<a href="https://www.ma-jan.or.jp/about/haiga.html" target="_blank" rel="noopener noreferrer">日本职业麻将联盟公开牌图</a>核对。本站筒子的非红色纹样统一采用深蓝黑色；不同牌具的蓝绿用色、字体和一索鸟形会有差异。<br>八筒不含红色；九索中列为红色；八索为上 M、下 W。白板留白，赤五的主纹样全部为红色。</p>
+  </main>
+</body>
+</html>
